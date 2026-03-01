@@ -1,44 +1,54 @@
-# ethical-hacking-journey
-🛡️ Ethical Hacking – Learning Journey
-This repository documents my journey into cybersecurity and ethical hacking.
+#  Offensive Security & Ethical Hacking Laboratory
+**A Comprehensive Repository of Security Research, Network Reconnaissance, and Penetration Testing Methodology.**
 
-🎓 I'm currently enrolled in the 12-week "Ethical Hacking" course by IIT Madras via the SWAYAM portal, and I’ve also completed the "Complete Ethical Hacking Bootcamp" by Zero to Mastery (ZTM) on Udemy.
+---
 
-Together, these courses are helping me build a strong foundation in ethical hacking, penetration testing, and security analysis.
+##  Executive Summary
+This repository serves as a centralized documentation hub for my transition into cybersecurity. It integrates theoretical frameworks from **IIT Madras (SWAYAM)** with the practical, hands-on methodologies of the **Zero To Mastery (ZTM)** security track. 
 
-📘 Courses I'm Learning From:
-✅ ZTM Ethical Hacking Bootcamp (Udemy) – Completed
+My current focus is on mastering the **Reconnaissance** and **Vulnerability Assessment** phases of the Cyber Kill Chain, ensuring a "Security-First" approach to software engineering.
 
-📚 Ethical Hacking by IIT Madras (SWAYAM) – In Progress
+---
 
-🔍 Topics Covered
-Information Gathering (Reconnaissance & Footprinting)
+## Academic & Industry Training
+* **IIT Madras (NPTEL/SWAYAM):** *Ethical Hacking Certification* (12-Week Intensive — **In Progress**)
+* **Zero To Mastery (ZTM) Academy:** *Complete Ethical Hacking Bootcamp* (**Completed**)
 
-Scanning & Enumeration
+---
 
-System & Network Hacking
+##  Technical Domains Explored
+Through simulated lab environments and CTF (Capture The Flag) exercises, I have developed foundational competency in:
 
-Malware & Ransomware
+* **Passive & Active Reconnaissance:** Advanced footprinting and information gathering techniques.
+* **Network Enumeration:** Identifying live hosts, open ports, and running services via scriptable scanning.
+* **System Vulnerability Analysis:** Understanding the lifecycle of malware, ransomware, and system exploits.
+* **Web Application Security:** Foundational knowledge of the OWASP Top 10, specifically SQL Injection (SQLi) and Cross-Site Scripting (XSS).
+* **Wireless Security:** Analyzing WPA2 handshakes and common WiFi attack vectors.
+* **Automation:** Utilizing Linux Shell Scripting (Bash) to automate repetitive security tasks.
 
-SQL Injection & XSS
+---
 
-WiFi Hacking & WPA2 Attacks
+##  Security Toolchain
+I leverage industry-standard tools within a **Kali Linux** environment to conduct security audits:
 
-Web Application Attacks
+| Category | Tools Utilized |
+| :--- | :--- |
+| **Operating Systems** | Kali Linux, Parrot Security OS |
+| **Reconnaissance** | Nmap, Netdiscover, Whois |
+| **Traffic Analysis** | Wireshark |
+| **Exploitation Frameworks**| Metasploit (Basic), MSFVenom |
+| **Web Proxy & Auditing** | Burp Suite (Community Edition) |
+| **Password Auditing** | John the Ripper, Hydra |
 
-Linux Basics & Shell Scripting
+---
 
-🛠️ Tools I’m Learning
-Kali Linux
+##  Laboratory Projects
+* [Email Scraper Tool](https://github.com/avidubey08/email-scraper-tool) - Automated OSINT (Open Source Intelligence) tool.
+* [Port Scanner Utility](https://github.com/avidubey08/port-scanner-tool) - Multi-threaded network discovery tool.
 
-Nmap
+---
 
-Wireshark
+##  Ethical Mandate
+All activities documented here are performed within **isolated lab environments** or on platforms with explicit authorization (e.g., TryHackMe, HackTheBox). I strictly adhere to the ethical guidelines established by the **EC-Council** and the legal frameworks of the **IT Act**.
 
-Metasploit
-
-Burp Suite
-
-John the Ripper
-
-Hydra
+---
